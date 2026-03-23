@@ -18,7 +18,11 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
-
+<div align="center">
+  <a href="https://github.com/Rahul-Raj1709/Rahul-Raj1709/blob/main/Rahul_Raj_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" height="25" alt="resume" />
+  </a>
+</div>
 ###
 
 ## 🚀 Featured Projects
