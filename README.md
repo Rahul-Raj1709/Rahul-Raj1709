@@ -66,7 +66,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Raj1709&theme=dark&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-Raj1709&theme=onedark&no-frame=false&margin-w=4" height="150" alt="trophy graph" />
 </div>
 
 ###
