@@ -21,6 +21,27 @@
 
 ###
 
+## 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Project 1: .NET Core Backend</h3>
+      <p>High-performance ASP.NET Core API focusing on p99 latency and efficient EF Core querying using DTO projection.</p>
+      <p><b>Tech:</b> .NET, Entity Framework, SQL Server, Redis</p>
+      <a href="https://github.com/Rahul-Raj1709?tab=repositories">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Project 2: React Interactive App</h3>
+      <p>A collaborative web application featuring a whiteboard and real-time state management.</p>
+      <p><b>Tech:</b> React, TypeScript, Tailwind, Redux</p>
+      <a href="https://github.com/Rahul-Raj1709?tab=repositories">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
+###
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Raj1709&theme=dark&hide_border=false" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=Rahul-Raj1709&theme=onedark&no-frame=false&margin-w=4" height="150" alt="trophy graph" />
@@ -30,9 +51,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-Raj1709/Rahul-Raj1709/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-Raj1709/Rahul-Raj1709/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rahul-Raj1709/Rahul-Raj1709/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-Raj1709/Rahul-Raj1709/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-Raj1709/Rahul-Raj1709/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rahul-Raj1709/Rahul-Raj1709/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
